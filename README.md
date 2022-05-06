@@ -1,9 +1,6 @@
 ### Hello everyone! 👋
 
-<!--
-**kisekifrans/kisekifrans** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently studying at ... Universitas Pendidikan Ganesha
 - 🌱 I’m currently learning ... Flutter and Dart
@@ -13,4 +10,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ... [Instagram] (instagram.com/agisnafransisco)
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ... I was an Athlete
--->
