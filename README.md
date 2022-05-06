@@ -17,8 +17,16 @@
   <a href="facebook.com/kisekifrans">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
   </a>
+  <a href="fiverr.com/putuagisna">
+    <img src="https://img.shields.io/badge/fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" alt="Fiverr Badge"/>
+  </a>
+  <a href="">
+    <img src="" alt=""/> 
+  </a>
 </div>
  
+ 
+
 
 :heart_eyes_cat:
 
@@ -35,5 +43,5 @@
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ... I was an Athlete
 
-
-![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=kisekifrans)
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=21hmuzw3542nq47pag23ggkfy&width={width})
+![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=21hmuzw3542nq47pag23ggkfy)
