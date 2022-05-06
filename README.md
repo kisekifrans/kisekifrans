@@ -4,7 +4,20 @@
 
 
 
-<div id="badges">
+
+# Hello everyone! I'm Frans - a.k.a. kisekifrans 👋 :heart_eyes_cat:
+
+
+## I'm a IT Student & Athlete
+
+- :rabbit: I'm currently studying at Universitas Pendidikan Ganesha 
+- :pig_nose: I'm currently learning Flutter and Dart 
+- :octopus: Goals : I want to be a Software Engineer
+- :cat: Fun Fact : I was an Athlete 
+
+## Connect with me : :ocean:
+
+div id="badges">
   <a href="https://www.linkedin.com/in/agisnafransisco/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
@@ -25,20 +38,4 @@
   </a>
 </div>
  
- 
 
-
-
-# Hello everyone! I'm Frans - a.k.a. kisekifrans 👋 :heart_eyes_cat:
-
-
-## I'm a IT Student & Athlete
-
-- :rabbit: I'm currently studying at Universitas Pendidikan Ganesha 
-- :pig_nose: I'm currently learning Flutter and Dart 
-- :octopus: Goals : I want to be a Software Engineer
-- :cat: Fun Fact : I was an Athlete 
-
-
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kisekifrans" />
