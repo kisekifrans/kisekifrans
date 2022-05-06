@@ -10,6 +10,7 @@
   </a>
 </div>
 
+:heart_eyes_cat:
 
 ### Hello everyone! 👋
 
