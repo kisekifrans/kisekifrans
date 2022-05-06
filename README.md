@@ -14,7 +14,7 @@
 - :rabbit: I'm currently studying at Universitas Pendidikan Ganesha 
 - :pig_nose: I'm currently learning Flutter and Dart 
 - :octopus: Goals : I want to be a Software Engineer
-- :cat: Fun Fact : I was an Athlete 
+- :cat: Fun Fact : I was an Athlete and Pro Apex Legends player ( I was playing for Team MYTH & FFPS ).
 
 ## :fire: Programming Languages 
 <div id="badgess">
