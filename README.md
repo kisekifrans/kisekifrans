@@ -34,7 +34,21 @@
     <img src="" alt=""/>
   </a>
  </div>
-
+ 
+ ## Front - End :heart_on_fire:
+ 
+<div id="badgesss">
+  <a href="">
+    <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt=""/>
+  </a>
+  <a href="">
+    <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" alt=""/>
+  </a>
+ </div>
+ 
+ ## Tools :koala: 
+ 
+[![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=21AAF2)](https://code.visualstudio.com)
 
 ## Connect with me : :ocean:
 
@@ -42,10 +56,10 @@
   <a href="https://www.linkedin.com/in/agisnafransisco/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="instagram.com/agisnafransisco">
+  <a href="https://www.instagram.com/agisnafransisco">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
-  <a href="twitter.com/agisnafransisco">
+  <a href="https://www.twitter.com/agisnafransisco">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
   <a href="https://www.facebook.com/kisekifrans/">
