@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/o9GAQwqLpGtoETkcuq/giphy.gif" width="792"/>
 </div>
-<h3 align="center"> Illustration by <a href="https://www.artstation.com/artwork/v20zzE"> WLOP.</a></h3>] 
+<h4 align="center"> Illustration by <a href="https://www.artstation.com/artwork/v20zzE"> WLOP.</a></h4>
 
 
 
