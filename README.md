@@ -7,6 +7,6 @@
 - 👯 I’m looking to collaborate on ... Flutter 
 - 🤔 I’m looking for help with ... 
 - 💬 Ask me about ... anything
-- 📫 How to reach me: ... [Instagram] (instagram.com/agisnafransisco)
+- 📫 How to reach me: ... [Instagram](instagram.com/agisnafransisco)
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ... I was an Athlete
