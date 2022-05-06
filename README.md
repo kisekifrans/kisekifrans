@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://c.tenor.com/Xb5VBnJ7IxEAAAAC/karafuru.gif" width="100"/>
+  <img src="https://c.tenor.com/Xb5VBnJ7IxEAAAAC/karafuru.gif" width="800"/>
 </div>
 
 
