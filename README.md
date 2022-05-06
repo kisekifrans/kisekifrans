@@ -1,3 +1,9 @@
+<div id="header" align="center">
+  <img src="https://tenor.com/bPypm.gif" width="100"/>
+</div>
+
+<div class="tenor-gif-embed" data-postid="24640982" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/karafuru-gif-24640982">Karafuru GIF</a>from <a href="https://tenor.com/search/karafuru-gifs">Karafuru GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+
 <div id="badges">
   <a href="https://www.linkedin.com/in/agisnafransisco/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -28,3 +34,6 @@
 - 📫 How to reach me: ... [Instagram](instagram.com/agisnafransisco)
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ... I was an Athlete
+
+
+![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=kisekifrans)
