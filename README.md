@@ -16,9 +16,16 @@
 - :octopus: Goals : I want to be a Software Engineer
 - :cat: Fun Fact : I was an Athlete 
 
+## Programming Languages :fire:
+
+<a href="">
+    <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt=""/> 
+  </a>
+
+
 ## Connect with me : :ocean:
 
-div id="badges">
+<div id="badges">
   <a href="https://www.linkedin.com/in/agisnafransisco/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
@@ -33,9 +40,6 @@ div id="badges">
   </a>
   <a href="https://www.fiverr.com/putuagisna">
     <img src="https://img.shields.io/badge/fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" alt="Fiverr Badge"/>
-  </a>
-  <a href="">
-    <img src="" alt=""/> 
   </a>
 </div>
  
