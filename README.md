@@ -14,10 +14,10 @@
   <a href="twitter.com/agisnafransisco">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
-  <a href="facebook.com/kisekifrans">
+  <a href="https://www.facebook.com/kisekifrans/">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
   </a>
-  <a href="fiverr.com/putuagisna">
+  <a href="https://www.fiverr.com/putuagisna">
     <img src="https://img.shields.io/badge/fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" alt="Fiverr Badge"/>
   </a>
   <a href="">
