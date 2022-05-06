@@ -43,4 +43,5 @@
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ... I was an Athlete
 
-![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=21hmuzw3542nq47pag23ggkfy)
+
+https://github-readme-stats.vercel.app/api/top-langs/?username={kisekifrans}
