@@ -1,8 +1,8 @@
 <div id="header" align="center">
-  <img src="https://tenor.com/bPypm.gif" width="100"/>
+  <img src="https://c.tenor.com/Xb5VBnJ7IxEAAAAC/karafuru.gif" width="100"/>
 </div>
 
-<div class="tenor-gif-embed" data-postid="24640982" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/karafuru-gif-24640982">Karafuru GIF</a>from <a href="https://tenor.com/search/karafuru-gifs">Karafuru GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/agisnafransisco/">
