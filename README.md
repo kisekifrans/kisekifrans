@@ -29,10 +29,6 @@
   </a>
   <a href="">
     <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt=""/>
-  </a>
-  a href="">
-    <img src="" alt=""/>
-  </a>
  </div>
  
  ## Front - End :heart_on_fire:
