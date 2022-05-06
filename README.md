@@ -17,10 +17,23 @@
 - :cat: Fun Fact : I was an Athlete 
 
 ## Programming Languages :fire:
-
+<div id="badgess">
 <a href="">
     <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt=""/> 
   </a>
+ <a href="">
+    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt=""/>
+  </a>
+  <a href="">
+    <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt=""/>
+  </a>
+  <a href="">
+    <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt=""/>
+  </a>
+  a href="">
+    <img src="" alt=""/>
+  </a>
+ </div>
 
 
 ## Connect with me : :ocean:
