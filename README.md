@@ -9,14 +9,14 @@
 # Hello everyone! I'm Frans - a.k.a. kisekifrans 👋 :heart_eyes_cat:
 
 
-## I'm a IT Student & Athlete
+## :man_technologist: I'm a IT Student & Athlete
 
 - :rabbit: I'm currently studying at Universitas Pendidikan Ganesha 
 - :pig_nose: I'm currently learning Flutter and Dart 
 - :octopus: Goals : I want to be a Software Engineer
 - :cat: Fun Fact : I was an Athlete 
 
-## Programming Languages :fire:
+## :fire: Programming Languages 
 <div id="badgess">
 <a href="">
     <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt=""/> 
@@ -31,7 +31,7 @@
     <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt=""/>
  </div>
  
- ## Front - End :heart_on_fire:
+ ## :heart_on_fire: Front - End 
  
 <div id="badgesss">
   <a href="">
@@ -42,12 +42,12 @@
   </a>
  </div>
  
- ## Tools :koala: 
+ ## :koala: Tools 
  <a href="">
 <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt=""/>
   </a>
 
-## Connect with me : :ocean:
+## :ocean: Connect with me : 
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/agisnafransisco/">
