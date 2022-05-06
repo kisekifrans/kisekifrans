@@ -44,4 +44,4 @@
 - ⚡ Fun fact: ... I was an Athlete
 
 
-https://github-readme-stats.vercel.app/api/top-langs/?username={kisekifrans}
+https://github-readme-stats.vercel.app/api/top-langs/?username=kisekifrans
