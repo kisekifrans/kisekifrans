@@ -47,8 +47,9 @@
  </div>
  
  ## Tools :koala: 
- 
-[![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=21AAF2)](https://code.visualstudio.com)
+ <a href="">
+<img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt=""/>
+  </a>
 
 ## Connect with me : :ocean:
 
