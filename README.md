@@ -37,9 +37,6 @@
   <a href="">
     <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt=""/>
   </a>
-  <a href="">
-    <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" alt=""/>
-  </a>
  </div>
  
  ## :koala: Tools 
